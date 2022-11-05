@@ -4,6 +4,7 @@
 logs/
 ckpts/
 results/
+venv/
 *.ply
 *.vol
 
